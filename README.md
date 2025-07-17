@@ -12,8 +12,9 @@ COMPILE TOOLS
 AUTHORS
 ===============
 * Ported by Doodle
-* Original Authored by Percival.
+* MHGames
 
 LINKS
 ===============
 * https://www.os2world.com/games/index.php/native-games/action-2/74-formido
+* https://www.mhgames.org/oldies/formido/
