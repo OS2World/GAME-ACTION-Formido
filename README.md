@@ -12,6 +12,7 @@ COMPILE TOOLS
 AUTHORS
 ===============
 * Ported by Doodle
+* Original Authored by Percival.
 
 LINKS
 ===============
